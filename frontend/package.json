@@ -1,5 +1,7 @@
 {
   "name": "college-admission-portal",
+  
+    "homepage": "https://byte0017.github.io/EnrollEase",
   "private": true,
   "version": "0.0.0",
   "type": "module",
